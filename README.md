@@ -45,7 +45,7 @@ A correct strong-scaling benchmark requires:
 ## Results
 
 Benchmark methodology corrected. Quantitative results pending measurement on
-validated hardware.
+validated hardware (no numbers are reported until measured).
 
 ## How to run
 
